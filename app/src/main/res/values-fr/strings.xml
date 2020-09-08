@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="textView" tools:ignore="ExtraTranslation">Bienvenue</string>
+    <string name="button" tools:ignore="ExtraTranslation">Entrer</string>
+</resources>
